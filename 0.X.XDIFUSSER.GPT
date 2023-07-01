@@ -1,0 +1,21 @@
+https://www.cognitionai.org/hdhowtogetstarted
+
+>
+Dataset Name: ANIME.DAT diffusion ARCHIVES.OMAN
+
+Description: This dataset contains a collection of diffusion models trained on anime images. The models were trained using the diffusion-GAN architecture, and they are able to generate realistic images of anime characters. The dataset includes both the models themselves and the images that they were trained on.
+
+Data Format: The dataset is stored in a compressed archive file called ARCHIVES.OMAN. The archive file contains two directories:
+
+models: This directory contains the diffusion models. Each model is a TensorFlow checkpoint file.
+images: This directory contains the images that the models were trained on. The images are stored in PNG format.
+To Use: To use the dataset, you will need to extract the archive file and then load the models and images into TensorFlow. Once you have loaded the models, you can use them to generate new images.
+
+License: The dataset is licensed under the MIT License.
+
+Contact: If you have any questions about the dataset, please contact [name] at [email].
+
+Version: 1.0
+
+Date: 2023-06-30
+
